@@ -1,5 +1,3 @@
-Bouncing-Balls
-==============
 				*****************************
 				**    The Bouncing Balls   **
 				*****************************
@@ -22,7 +20,8 @@ Bouncing-Balls
 	Use the following command on the prompt in the current directory where the jar file and lib folder are located:
 	
 	java -jar MyGame.jar
+
 	
+	CMSC 325	
+	Patrice M. Ngassa
 	
-	//////////////////////////////////////
-Bouncing Balls
